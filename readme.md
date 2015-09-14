@@ -1,6 +1,6 @@
 ## _Zizaco's_ Laravel Project Template
 
-This is the skeleton of a Laravel application I use to save the initial setup I usually do. Feel free to use and customize according to your needs.
+This is the skeleton of a Laravel application that I use to save the initial setup that I usually make. Feel free to use and to customize according to your needs.
 
 ### What is included
 

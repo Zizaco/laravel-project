@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "laravel-elixir": "^3.0.0",
-    "bootstrap-sass": "^3.0.0"
+    "bootstrap-sass": "^3.0.0",
+    "laravel-elixir-imagemin": "^0.2.1"
   }
 }
